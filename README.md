@@ -3,10 +3,10 @@
 <h3 align="center">A passionate AI specialist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanad-s&label=Profile%20views&color=0e75b6&style=flat" alt="mohanad-s" /> </p>
 
-🔭 I'm currently working on Federated Learning in Acute Lymphoblastic Leukemia
-🌱 I'm currently learning Federated Learning simulation, and Web Machine Learning
-📫 How to reach me https://www.linkedin.com/in/mohanad-aldakheel/
-😄 Pronouns: He / Him
+- 🔭 I'm currently working on Federated Learning in Acute Lymphoblastic Leukemia
+- 🌱 I'm currently learning Federated Learning simulation, and Web Machine Learning
+- 📫 How to reach me https://www.linkedin.com/in/mohanad-aldakheel/
+- 😄 Pronouns: He / Him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
